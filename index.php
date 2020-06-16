@@ -6,6 +6,6 @@
     <title>Coba Git Remote lagi</title>
 </head>
 <body>
-    
+    <p>Lorem</p>
 </body>
 </html>
